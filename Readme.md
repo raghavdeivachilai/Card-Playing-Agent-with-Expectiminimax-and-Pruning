@@ -1,8 +1,9 @@
-Card Playing Agent with Expectiminimax and Pruning:
+# Card Playing Agent with Expectiminimax and Pruning:
 
 I programmed an agent to play trick taking games such as Hearts,
 Spades, and Bridge. I have used a game engine to run the program and compete with other players.
-Simple Trick Taking Game Rules:
+
+## Simple Trick Taking Game Rules:
 This game is played with 4 players and a standard 52 card deck. There are four ​ suits ​ , Spades ♠,
 Hearts ​ ♥ ​ , Diamonds ​ ♦ ​ , and Clubs ♣. Each suit has 13 cards with ​ ranks ​ 2, 3, 4, 5, 6, 7, 8, 9, 10, J
 (Jack), Q (Queen), K (King), and A (Ace), with 2 being the lowest rank and A being the highest.
