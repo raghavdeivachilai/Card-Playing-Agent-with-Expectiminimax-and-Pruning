@@ -258,10 +258,6 @@ class Player(object):
                 print(selected_card)
         # remove the selected card from the hand and return that card
         self.hand.remove(selected_card)
-        #print("Selected Card:",selected_card)
-        #print('Av c',available_cards)
-        #print("Trick",trick)
-        #print("Hand",self.get_hand())
         return selected_card
     
     def evaluate(self,trick,agent_pos):
