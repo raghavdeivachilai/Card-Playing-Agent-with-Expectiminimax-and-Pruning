@@ -1,4 +1,5 @@
 Card Playing Agent with Expectiminimax and Pruning:
+
 I programmed an agent to play trick taking games such as Hearts,
 Spades, and Bridge. I have used a game engine to run the program and compete with other players.
 Simple Trick Taking Game Rules:
