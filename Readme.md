@@ -1,7 +1,7 @@
 # Card Playing Agent with Expectiminimax and Pruning:
 
 I programmed an agent to play trick taking games such as Hearts,
-Spades, and Bridge. I have used a game engine to run the program and compete with other players.
+Spades, and Bridge. I ran the program on a game engine to compete with other players.
 
 ## Simple Trick Taking Game :
 This game is played with 4 players and a standard 52 card deck. There are four suits , Spades ♠,
